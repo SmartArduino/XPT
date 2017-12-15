@@ -10,3 +10,6 @@ this link: [Watch videos](http://i.youku.com/i/UMjg3NjY2MDgxMg==/videos?spm=a2hz
 
 ## How to install the TS100
 [Watch the video](http://v.youku.com/v_show/id_XMjg0NDEyMDMwOA==.html?spm=a2hzp.8253869.0.0)
+
+## Remote control the tank cars
+[Watch the video](http://v.youku.com/v_show/id_XMTI5NjUwOTYzMg==.html?spm=a2hzp.8253869.0.0)
