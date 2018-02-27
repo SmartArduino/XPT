@@ -1,4 +1,4 @@
-# Hi, everyone, Thanks very much for your order in my shop. Please copy the following link to your computer, and open it in your computer browser to download the pdf files.
+Hi, everyone, Thanks very much for your order in my shop. Please copy the following link to your computer, and open it in your computer browser to download the pdf files.
 
 https://github.com/SmartArduino/XPT
 
