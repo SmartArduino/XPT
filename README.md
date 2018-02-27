@@ -1,5 +1,7 @@
-# Welcome to read and/or download the related documents about your products.
-Hello, everyone, Thanks very much for your insterest on our products. If you want to watch some vedios of our products, please click
+# Hi, everyone, Thanks very much for your order in my shop. Please copy the following link to your computer, and open it in your computer browser to download the pdf files.
+
+https://github.com/SmartArduino/XPT
+
 this link: [Watch videos](http://i.youku.com/i/UMjg3NjY2MDgxMg==/videos?spm=a2hzp.8244740.0.0).
 
 ## How to connect the track
