@@ -1,8 +1,8 @@
-Hi, everyone, Thanks very much for your order in my shop. Please copy the following link to your computer, and open it in your computer browser to download the pdf files.
+Hi, everyone, Thanks very much for your order in my shop. Please copy the following link to your computer, and open it in your computer browser to download the pdf files. You also can watch the following videos to install the tank chassis. Thanks.
 
 https://github.com/SmartArduino/XPT
 
-
+# Watch Videos
 
 ## How to install SR03 tank platform
 [watch the video](https://youtu.be/od4h0dyjrQA)
