@@ -5,7 +5,8 @@ https://github.com/SmartArduino/XPT
 ## How to install SR10 tank platform
 [watch the video](https://youtu.be/yfUnU4ePQws)
 
-
+## How to install SR03 tank platform
+[watch the video](https://youtu.be/od4h0dyjrQA)
 
 
 
