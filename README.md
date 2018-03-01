@@ -10,6 +10,8 @@ https://github.com/SmartArduino/XPT
 ## How to install SR08 tank platform
 [watch the video](https://youtu.be/4-RNcmpygWI)
 
+## How to install SR10 tank platform
+[watch the video](https://youtu.be/yfUnU4ePQws)
 
 
 ## How to connect the track
