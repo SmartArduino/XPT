@@ -19,6 +19,8 @@ https://github.com/SmartArduino/XPT
 ## How to install C3 tank platform
 [watch the video](https://youtu.be/GUC-g0wYHUo)
 
+## How to install the tank chassis SR14
+[Watch the video](https://youtu.be/vy1ScmWc-P4)
 
 ## How to connect the track
 [Watch the video](http://v.youku.com/v_show/id_XMTg4NzYyMzY4NA==.html?spm=a2hzp.8253869.0.0)
@@ -31,3 +33,5 @@ https://github.com/SmartArduino/XPT
 
 ## Remote control the tank cars
 [Watch the video](http://v.youku.com/v_show/id_XMTI5NjUwOTYzMg==.html?spm=a2hzp.8253869.0.0)
+
+
